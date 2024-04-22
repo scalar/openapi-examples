@@ -1,5 +1,5 @@
 {
-  "name": "vite-vanilla-ts-template",
+  "name": "@scalar/openapi-examples",
   "private": true,
   "version": "1.0.1",
   "type": "module",
