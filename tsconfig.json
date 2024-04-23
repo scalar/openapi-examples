@@ -21,12 +21,12 @@
     "esModuleInterop": false,
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
-    "jsx": "preserve",
 
     "baseUrl": "./",
     "paths": {
       "~/*": ["src/*"]
-    }
+    },
+    "types": ["@modyfi/vite-plugin-yaml", "vite/client"]
   },
-  "include": ["src"]
+  "include": ["src", "**/*.yaml"]
 }

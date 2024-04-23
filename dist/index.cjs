@@ -1,1 +1,0 @@
-"use strict";Object.defineProperty(exports,Symbol.toStringTag,{value:"Module"});const e={},o=e.readFileSync(e.resolve(__dirname,"./files/mega.yaml"),"utf-8"),c=e.readFileSync(e.resolve(__dirname,"./files/bbccouk.yaml"),"utf-8"),l=e.readFileSync(e.resolve(__dirname,"./files/webflowcom.yaml"),"utf-8");exports.bbccouk=c;exports.mega=o;exports.webflowcom=l;
